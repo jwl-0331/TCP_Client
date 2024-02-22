@@ -1,0 +1,9 @@
+C:\Users\mm940\OneDrive\바탕 화면\서버 구축\MyTcpClient\MyTcpClient\bin\Debug\MyTcpClient.exe.config
+C:\Users\mm940\OneDrive\바탕 화면\서버 구축\MyTcpClient\MyTcpClient\bin\Debug\MyTcpClient.exe
+C:\Users\mm940\OneDrive\바탕 화면\서버 구축\MyTcpClient\MyTcpClient\bin\Debug\MyTcpClient.pdb
+C:\Users\mm940\OneDrive\바탕 화면\서버 구축\MyTcpClient\MyTcpClient\obj\Debug\MyTcpClient.csproj.AssemblyReference.cache
+C:\Users\mm940\OneDrive\바탕 화면\서버 구축\MyTcpClient\MyTcpClient\obj\Debug\MyTcpClient.Properties.Resources.resources
+C:\Users\mm940\OneDrive\바탕 화면\서버 구축\MyTcpClient\MyTcpClient\obj\Debug\MyTcpClient.csproj.GenerateResource.cache
+C:\Users\mm940\OneDrive\바탕 화면\서버 구축\MyTcpClient\MyTcpClient\obj\Debug\MyTcpClient.csproj.CoreCompileInputs.cache
+C:\Users\mm940\OneDrive\바탕 화면\서버 구축\MyTcpClient\MyTcpClient\obj\Debug\MyTcpClient.exe
+C:\Users\mm940\OneDrive\바탕 화면\서버 구축\MyTcpClient\MyTcpClient\obj\Debug\MyTcpClient.pdb
